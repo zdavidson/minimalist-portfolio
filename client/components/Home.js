@@ -5,7 +5,7 @@ import ContactMe from "./ContactMe";
 
 const Home = () => {
   return (
-    <div>
+    <div className="px-4">
       <Hero />
       <AboutMe />
       <ContactMe />
